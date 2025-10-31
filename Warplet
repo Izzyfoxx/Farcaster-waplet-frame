@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: stylized NFT banner version"
+git branch -M main
+git remote add origin https://github.com/izzyfoxx/farcaster-warplet-frame.git
+git push -u origin main
